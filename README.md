@@ -3,7 +3,7 @@
 <h3 align="center">Symfony Developer | Back-End Web Developer.</h3>
 <img align="right" alt="coding" width="333" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyewais&label=Profile%20views&color=0e75b6&style=flat" alt="sandyewais" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpgarsondiya&label=Profile%20views&color=0e75b6&style=flat" alt="vpgarsondiya" /> </p> -->
 
 - 🔭 I’m currently working on **OOP Authentication System**
 
