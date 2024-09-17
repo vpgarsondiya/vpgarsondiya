@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Patel</h1>
-<h3 align="center">A Passionate Symfony Developer From India</h3>
+<h3 align="center">A Passionate Laravel & Symfony Developer From India</h3>
 
 - 🔭 I’m currently working on **Symfony Auth System**
 
